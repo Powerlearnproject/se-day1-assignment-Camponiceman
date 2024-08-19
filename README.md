@@ -60,6 +60,7 @@ Integrated Development Environments (IDEs) and Version Control Systems (VCS) pla
 Integrated Development Environments (IDEs)
 Importance:
 IDEs provide a comprehensive environment for software development, offering various tools and features that simplify the process of writing, testing, and debugging code. They offer:
+
 Code editing capabilities with features like syntax highlighting, code completion, and error checking.
 Integration with build and testing tools, making it easier to compile, run, and test code.
 Debugging tools for troubleshooting and fixing issues in the code.
@@ -77,7 +78,7 @@ Facilitating rollbacks to previous code versions in case of errors or issues.
 Examples of widely used Version Control Systems include:
 Git: A distributed VCS commonly used for open-source and commercial software development.
 Subversion (SVN): A centralized VCS often used in enterprise software development.
-Mercurial: A distributed VCS known for its scalability and ease of use.
+Mercurial: A distributed VCS is known for its scalability and ease of use.
 Perforce: A commercial VCS commonly used in game development and large-scale software projects.
 
 
